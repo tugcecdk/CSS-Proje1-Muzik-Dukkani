@@ -2,13 +2,13 @@
 
 ## Ana Sayfa
 
-![Ana Sayfa](AnaSayfa.png)
+![Ana Sayfa](README_Images/AnaSayfa.png)
 
 ## Ürünlerimiz
 
-![Ürünlerimiz](Urunlerimiz.png)
+![Ürünlerimiz](README_Images/Urunlerimiz.png)
 
 ## Hakkımızda
 
-![Hakkımızda](Hakkimizda.png)
+![Hakkımızda](README_Images/Hakkimizda.png)
  
